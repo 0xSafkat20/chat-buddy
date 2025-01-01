@@ -19,7 +19,7 @@ Chat-Buddy is an intelligent chatbot application designed to provide seamless an
 
 ## Demo
 
-Check out the live demo: [Chat-Buddy Live](https://0xsafkat20.me)
+Check out the live demo: [Chat-Buddy Live]([https://0xsafkat20.me](https://nextjs-ai-chat-buddy.vercel.app/))
 
 ---
 
